@@ -1,9 +1,9 @@
-package basic;
+package myBackjoon;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Test3_Buffer {
+public class Problem10951 {
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));	
 		while(true) {
