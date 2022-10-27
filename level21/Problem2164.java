@@ -1,4 +1,4 @@
-package basic;
+package myBackjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Problem2164Buffer {
+public class Problem2164 {
 	public static int cheak(int num) {
 		Queue<Integer> queue = new LinkedList<Integer>(); 
 		for(int i=1; i<=num; i++) {
