@@ -1,4 +1,4 @@
-package datastructure;
+package myBackjoon;
 
 import java.util.Scanner;
 
