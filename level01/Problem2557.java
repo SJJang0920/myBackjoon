@@ -1,4 +1,4 @@
-package basic;
+package myBackjoon;
 
 public class Problem2557 {
 	public static void main(String args[]) {
