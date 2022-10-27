@@ -1,10 +1,10 @@
-package basic;
+package myBackjoon;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class Stack_VPS_Exam_buffer {
+public class Problem9012 {
 	public static String checkVPS(String data) {
 		String result = "";
 		char[] dataArr = data.toCharArray();
